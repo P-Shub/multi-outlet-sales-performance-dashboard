@@ -29,7 +29,7 @@ The project focuses on the following business questions:
 
 ## Dashboard Preview
 
-![Multi-Outlet Sales Performance Dashboard](screenshots/dashboard.png)
+![Multi-Outlet Sales Performance Dashboard](screenshots/sales dashboard.png)
 
 ## Key Performance Indicators
 
